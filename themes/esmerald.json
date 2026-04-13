@@ -190,12 +190,12 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#4FC1FFFF",
+            "color": "#9CDCFE",
             "font_style": null,
             "font_weight": null
           },
           "boolean": {
-            "color": "#FF8F8FFF",
+            "color": "#FFFFFF",
             "font_style": null,
             "font_weight": null
           },
@@ -206,7 +206,7 @@
           },
           "comment.doc": {
             "color": "#889EDAFF",
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "constant": {
@@ -250,7 +250,7 @@
             "font_weight": null
           },
           "keyword": {
-            "color": "#D79BFFFF",
+            "color": "#FF8F8F",
             "font_style": null,
             "font_weight": null
           },
@@ -300,7 +300,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#FF8F8FFF",
+            "color": "#4FC1FF",
             "font_style": null,
             "font_weight": null
           },
@@ -313,6 +313,9 @@
             "color": "#B2B9C6FF",
             "font_style": null,
             "font_weight": null
+          },
+          "punctuation.bracket.html": {
+            "color": "#A33C3C"
           },
           "punctuation.delimiter": {
             "color": "#b2b9c6ff",
@@ -360,7 +363,7 @@
             "font_weight": null
           },
           "string.special": {
-            "color": "#75E070FF",
+            "color": "#FFFFFF",
             "font_style": null,
             "font_weight": null
           },
@@ -370,7 +373,7 @@
             "font_weight": null
           },
           "tag": {
-            "color": "#74ade8ff",
+            "color": "#FF8F8F",
             "font_style": null,
             "font_weight": null
           },
